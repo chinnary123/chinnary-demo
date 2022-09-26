@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EGroceryStore", "EGroceryStore\EGroceryStore.csproj", "{C025D982-6F3F-42A4-A35D-62AC701130D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGroceryTests", "EGroceryTests\EGroceryTests.csproj", "{4AB07DE8-AB9A-46C3-A83D-C630C0D07E18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C025D982-6F3F-42A4-A35D-62AC701130D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C025D982-6F3F-42A4-A35D-62AC701130D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C025D982-6F3F-42A4-A35D-62AC701130D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C025D982-6F3F-42A4-A35D-62AC701130D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB07DE8-AB9A-46C3-A83D-C630C0D07E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB07DE8-AB9A-46C3-A83D-C630C0D07E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB07DE8-AB9A-46C3-A83D-C630C0D07E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB07DE8-AB9A-46C3-A83D-C630C0D07E18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15BF89F1-D344-4367-8B3C-365ED35A8BE9}
+	EndGlobalSection
+EndGlobal
